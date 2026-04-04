@@ -33,6 +33,8 @@ cd backend
 npm install
 npm start
 
+
+## Setup
 ### Frontend
 
 ```bash
