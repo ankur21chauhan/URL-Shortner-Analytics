@@ -32,12 +32,11 @@ A full-stack URL shortener application with analytics tracking and dashboard vis
 cd backend
 npm install
 npm start
+```
 
-
-## Setup
 ### Frontend
-
 ```bash
 cd frontend
 npm install
 npm run dev
+```
