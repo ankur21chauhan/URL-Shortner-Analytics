@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000"
+  baseURL: "https://url-shortner-analytics-78yb.onrender.com"
 });
 
 export const createShortUrl = (data) => API.post("/short", data);
