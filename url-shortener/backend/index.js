@@ -95,7 +95,7 @@ app.post("/short", async (req, res) =>{
         });
 
         res.json({
-            shortUrl: `http://localhost:5000/${shortId}`
+            shortUrl: `https://url-shortner-analytics-78yb.onrender.com/${shortId}`
         });
     }
     catch(err){
